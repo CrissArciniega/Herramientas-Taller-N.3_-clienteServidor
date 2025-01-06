@@ -1,0 +1,544 @@
+{
+  "carreras": [
+    {
+      "id": 1736173109273,
+      "numero_de_corredores": 2,
+      "distancia_recorrida": 5,
+      "corredores": [
+        {
+          "id": 1,
+          "velocidad": 19,
+          "posicion": 57
+        },
+        {
+          "id": 2,
+          "velocidad": 16,
+          "posicion": 48
+        }
+      ],
+      "posiciones": [
+        {
+          "lugar": "Primero",
+          "corredor": 1
+        },
+        {
+          "lugar": "Segundo",
+          "corredor": 2
+        }
+      ]
+    },
+    {
+      "id": 1736173997181,
+      "numero_de_corredores": 5,
+      "distancia_recorrida": 100,
+      "corredores": [
+        {
+          "id": 1,
+          "velocidad": 16,
+          "posicion": 0
+        },
+        {
+          "id": 2,
+          "velocidad": 19,
+          "posicion": 0
+        },
+        {
+          "id": 3,
+          "velocidad": 6,
+          "posicion": 0
+        },
+        {
+          "id": 4,
+          "velocidad": 15,
+          "posicion": 0
+        },
+        {
+          "id": 5,
+          "velocidad": 15,
+          "posicion": 0
+        }
+      ],
+      "posiciones": []
+    },
+    {
+      "id": 1736174006528,
+      "numero_de_corredores": 5,
+      "distancia_recorrida": 100,
+      "corredores": [
+        {
+          "id": 1,
+          "velocidad": 7,
+          "posicion": 0
+        },
+        {
+          "id": 2,
+          "velocidad": 8,
+          "posicion": 0
+        },
+        {
+          "id": 3,
+          "velocidad": 2,
+          "posicion": 0
+        },
+        {
+          "id": 4,
+          "velocidad": 12,
+          "posicion": 0
+        },
+        {
+          "id": 5,
+          "velocidad": 9,
+          "posicion": 0
+        }
+      ],
+      "posiciones": []
+    },
+    {
+      "id": 1736174007284,
+      "numero_de_corredores": 5,
+      "distancia_recorrida": 100,
+      "corredores": [
+        {
+          "id": 1,
+          "velocidad": 14,
+          "posicion": 0
+        },
+        {
+          "id": 2,
+          "velocidad": 4,
+          "posicion": 0
+        },
+        {
+          "id": 3,
+          "velocidad": 13,
+          "posicion": 0
+        },
+        {
+          "id": 4,
+          "velocidad": 1,
+          "posicion": 0
+        },
+        {
+          "id": 5,
+          "velocidad": 12,
+          "posicion": 0
+        }
+      ],
+      "posiciones": []
+    },
+    {
+      "id": 1736174008069,
+      "numero_de_corredores": 5,
+      "distancia_recorrida": 100,
+      "corredores": [
+        {
+          "id": 1,
+          "velocidad": 10,
+          "posicion": 0
+        },
+        {
+          "id": 2,
+          "velocidad": 13,
+          "posicion": 0
+        },
+        {
+          "id": 3,
+          "velocidad": 9,
+          "posicion": 0
+        },
+        {
+          "id": 4,
+          "velocidad": 9,
+          "posicion": 0
+        },
+        {
+          "id": 5,
+          "velocidad": 20,
+          "posicion": 0
+        }
+      ],
+      "posiciones": []
+    },
+    {
+      "id": 1736174021795,
+      "numero_de_corredores": 5,
+      "distancia_recorrida": 100,
+      "corredores": [
+        {
+          "id": 1,
+          "velocidad": 4,
+          "posicion": 0
+        },
+        {
+          "id": 2,
+          "velocidad": 4,
+          "posicion": 0
+        },
+        {
+          "id": 3,
+          "velocidad": 15,
+          "posicion": 0
+        },
+        {
+          "id": 4,
+          "velocidad": 10,
+          "posicion": 0
+        },
+        {
+          "id": 5,
+          "velocidad": 12,
+          "posicion": 0
+        }
+      ],
+      "posiciones": []
+    },
+    {
+      "id": 1736174184475,
+      "numero_de_corredores": 5,
+      "distancia_recorrida": 100,
+      "corredores": [
+        {
+          "id": 1,
+          "velocidad": 1,
+          "posicion": 0
+        },
+        {
+          "id": 2,
+          "velocidad": 16,
+          "posicion": 0
+        },
+        {
+          "id": 3,
+          "velocidad": 3,
+          "posicion": 0
+        },
+        {
+          "id": 4,
+          "velocidad": 8,
+          "posicion": 0
+        },
+        {
+          "id": 5,
+          "velocidad": 15,
+          "posicion": 0
+        }
+      ],
+      "posiciones": []
+    },
+    {
+      "id": 1736174201557,
+      "numero_de_corredores": 5,
+      "distancia_recorrida": 100,
+      "corredores": [
+        {
+          "id": 1,
+          "velocidad": 8,
+          "posicion": 0
+        },
+        {
+          "id": 2,
+          "velocidad": 3,
+          "posicion": 0
+        },
+        {
+          "id": 3,
+          "velocidad": 6,
+          "posicion": 0
+        },
+        {
+          "id": 4,
+          "velocidad": 6,
+          "posicion": 0
+        },
+        {
+          "id": 5,
+          "velocidad": 3,
+          "posicion": 0
+        }
+      ],
+      "posiciones": []
+    },
+    {
+      "id": 1736174255515,
+      "numero_de_corredores": 5,
+      "distancia_recorrida": 100,
+      "corredores": [
+        {
+          "id": 1,
+          "velocidad": 6,
+          "posicion": 0
+        },
+        {
+          "id": 2,
+          "velocidad": 11,
+          "posicion": 0
+        },
+        {
+          "id": 3,
+          "velocidad": 6,
+          "posicion": 0
+        },
+        {
+          "id": 4,
+          "velocidad": 9,
+          "posicion": 0
+        },
+        {
+          "id": 5,
+          "velocidad": 11,
+          "posicion": 0
+        }
+      ],
+      "posiciones": []
+    },
+    {
+      "id": 1736174264163,
+      "numero_de_corredores": 5,
+      "distancia_recorrida": 100,
+      "corredores": [
+        {
+          "id": 1,
+          "velocidad": 7,
+          "posicion": 0
+        },
+        {
+          "id": 2,
+          "velocidad": 9,
+          "posicion": 0
+        },
+        {
+          "id": 3,
+          "velocidad": 11,
+          "posicion": 0
+        },
+        {
+          "id": 4,
+          "velocidad": 5,
+          "posicion": 0
+        },
+        {
+          "id": 5,
+          "velocidad": 17,
+          "posicion": 0
+        }
+      ],
+      "posiciones": []
+    },
+    {
+      "id": 1736174271498,
+      "numero_de_corredores": 5,
+      "distancia_recorrida": 100,
+      "corredores": [
+        {
+          "id": 1,
+          "velocidad": 4,
+          "posicion": 0
+        },
+        {
+          "id": 2,
+          "velocidad": 2,
+          "posicion": 0
+        },
+        {
+          "id": 3,
+          "velocidad": 1,
+          "posicion": 0
+        },
+        {
+          "id": 4,
+          "velocidad": 11,
+          "posicion": 0
+        },
+        {
+          "id": 5,
+          "velocidad": 8,
+          "posicion": 0
+        }
+      ],
+      "posiciones": []
+    },
+    {
+      "id": 1736174281812,
+      "numero_de_corredores": 5,
+      "distancia_recorrida": 100,
+      "corredores": [
+        {
+          "id": 1,
+          "velocidad": 15,
+          "posicion": 0
+        },
+        {
+          "id": 2,
+          "velocidad": 8,
+          "posicion": 0
+        },
+        {
+          "id": 3,
+          "velocidad": 20,
+          "posicion": 0
+        },
+        {
+          "id": 4,
+          "velocidad": 11,
+          "posicion": 0
+        },
+        {
+          "id": 5,
+          "velocidad": 1,
+          "posicion": 0
+        }
+      ],
+      "posiciones": []
+    },
+    {
+      "id": 1736174517267,
+      "numero_de_corredores": 5,
+      "distancia_recorrida": 100,
+      "corredores": [
+        {
+          "id": 1,
+          "velocidad": 9,
+          "posicion": 0
+        },
+        {
+          "id": 2,
+          "velocidad": 1,
+          "posicion": 0
+        },
+        {
+          "id": 3,
+          "velocidad": 11,
+          "posicion": 0
+        },
+        {
+          "id": 4,
+          "velocidad": 1,
+          "posicion": 0
+        },
+        {
+          "id": 5,
+          "velocidad": 2,
+          "posicion": 0
+        }
+      ],
+      "posiciones": []
+    },
+    {
+      "id": 1736174550091,
+      "numero_de_corredores": 2,
+      "distancia_recorrida": 20,
+      "corredores": [
+        {
+          "id": 1,
+          "velocidad": 1,
+          "posicion": 0
+        },
+        {
+          "id": 2,
+          "velocidad": 18,
+          "posicion": 0
+        }
+      ],
+      "posiciones": []
+    },
+    {
+      "id": 1736174585052,
+      "numero_de_corredores": 2,
+      "distancia_recorrida": 20,
+      "corredores": [
+        {
+          "id": 1,
+          "velocidad": 17,
+          "posicion": 34
+        },
+        {
+          "id": 2,
+          "velocidad": 15,
+          "posicion": 30
+        }
+      ],
+      "posiciones": [
+        {
+          "lugar": "Primero",
+          "corredor": 1
+        },
+        {
+          "lugar": "Segundo",
+          "corredor": 2
+        }
+      ]
+    },
+    {
+      "id": 1736174859113,
+      "numero_de_corredores": 2,
+      "distancia_recorrida": 20,
+      "corredores": [
+        {
+          "id": 1,
+          "velocidad": 3,
+          "posicion": 3
+        },
+        {
+          "id": 2,
+          "velocidad": 18,
+          "posicion": 18
+        }
+      ],
+      "posiciones": []
+    },
+    {
+      "id": 1736174954928,
+      "numero_de_corredores": 2,
+      "distancia_recorrida": 20,
+      "corredores": [
+        {
+          "id": 1,
+          "velocidad": 9,
+          "posicion": 9
+        },
+        {
+          "id": 2,
+          "velocidad": 8,
+          "posicion": 8
+        }
+      ],
+      "posiciones": []
+    },
+    {
+      "id": 1736175249951,
+      "numero_de_corredores": 2,
+      "distancia_recorrida": 20,
+      "corredores": [
+        {
+          "id": 1,
+          "velocidad": 14,
+          "posicion": 14
+        },
+        {
+          "id": 2,
+          "velocidad": 10,
+          "posicion": 10
+        }
+      ],
+      "posiciones": []
+    },
+    {
+      "id": 1736175376612,
+      "numero_de_corredores": 2,
+      "distancia_recorrida": 20,
+      "corredores": [
+        {
+          "id": 1,
+          "velocidad": 2,
+          "posicion": 2
+        },
+        {
+          "id": 2,
+          "velocidad": 12,
+          "posicion": 12
+        }
+      ],
+      "posiciones": []
+    }
+  ]
+}

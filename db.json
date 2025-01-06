@@ -1,0 +1,88 @@
+{
+  "carreras": [
+    {
+      "id": 1736170432956,
+      "numCorredores": 2,
+      "distancia": 5,
+      "corredores": [
+        {
+          "id": 1,
+          "velocidad": 9,
+          "posicion": 9
+        },
+        {
+          "id": 2,
+          "velocidad": 18,
+          "posicion": 18
+        }
+      ],
+      "ganadores": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 1736170700926,
+      "numCorredores": 2,
+      "distancia": 5,
+      "corredores": [
+        {
+          "id": 1,
+          "velocidad": 11,
+          "posicion": 0
+        },
+        {
+          "id": 2,
+          "velocidad": 5,
+          "posicion": 0
+        }
+      ],
+      "ganadores": []
+    },
+    {
+      "id": 1736170924312,
+      "numCorredores": 2,
+      "distancia": 5,
+      "corredores": [
+        {
+          "id": 1,
+          "velocidad": 7,
+          "posicion": 7
+        },
+        {
+          "id": 2,
+          "velocidad": 20,
+          "posicion": 20
+        }
+      ],
+      "posiciones": [
+        {
+          "lugar": "Primero",
+          "corredor": 2
+        },
+        {
+          "lugar": "Segundo",
+          "corredor": 1
+        }
+      ]
+    },
+    {
+      "id": 1736171161760,
+      "numCorredores": 2,
+      "distancia": 5,
+      "corredores": [
+        {
+          "id": 1,
+          "velocidad": 3,
+          "posicion": 0
+        },
+        {
+          "id": 2,
+          "velocidad": 16,
+          "posicion": 0
+        }
+      ],
+      "posiciones": []
+    }
+  ]
+}
